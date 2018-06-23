@@ -1,2 +1,3 @@
-# Only-object-color-detect
-it detect only any ibject color in RGB either it is RED, GREEN, or BLUE
+# Only-object-color-Tracking
+it track only object color in RGB either it is RED, GREEN, or BLUE
+webcam open only when object is recognised
